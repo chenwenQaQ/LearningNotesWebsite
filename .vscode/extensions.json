@@ -1,0 +1,8 @@
+/**
+  *在Vue3项目中，`.vscode`文件夹是用来存放与Visual Studio Code编辑器相关的配置文件的。其中，`extensions.json`文件是用来指定推荐安装的扩展程序的。
+  *在给定的`extensions.json`文件中，`recommendations`字段指定了两个推荐安装的扩展程序：`Vue.volar`和`Vue.vscode-typescript-vue-plugin`。这意味着，当你打开该Vue3项目时，Visual Studio Code编辑器会自动提示你安装这两个扩展程序。
+  *这些扩展程序通常与Vue开发相关，可能提供了更好的语法高亮、代码补全、错误检查等功能，以提升开发体验和效率。安装这些推荐的扩展程序可以帮助你更好地开发Vue3项目。
+*/
+{
+  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+}
