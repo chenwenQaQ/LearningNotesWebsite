@@ -1,0 +1,2 @@
+# LearningNotesWebsite
+该项目是使用Vue3技术所搭建的一个小型学习笔记网站，每行代码都有注释，便于初学者学习Vue3技术
